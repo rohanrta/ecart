@@ -226,3 +226,6 @@ Components:which is used to diplay contents in browser,used to create component 
 
   Dynamic routing: we can set up a dynamic /changing value in a url along: symbol,so react app will understand the value along with a  : is a dynamic part of this url
   to set up page not found url as path /*
+
+
+  useParam():hook that will 
